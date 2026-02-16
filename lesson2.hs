@@ -2,6 +2,7 @@ module Gold where
 
 -- Conditionals
 
+
 startCond :: String
 startCond = "hello"
 
