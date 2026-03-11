@@ -41,7 +41,7 @@ login2 "Razvan" _ = "Wrong password entered, Razvan"
 login2 _        _ = "No other users"
  
 main = do
-    print(price)
+    print price
     print(login "Sabs" "123Sabs123")
     print(circleArea 2)
     print(circleCircumference 1)
